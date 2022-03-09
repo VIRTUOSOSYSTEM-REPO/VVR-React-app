@@ -1,0 +1,240 @@
+{
+  "Header": 
+    {
+    "title": "For all Your",
+    "title1": "Home Care",
+    "title2": "Needs",
+    "paragraph": "Complete Package of Professional Service Solutions, More Satisfied Commertial & Residental Customers",
+    "title4": "Samsung - LG - SONY - HAIER - PANASONIC - PHILIPS - ONEPLUS  "
+  },
+
+  "About": {
+   "title": "VVR Home Care",
+    "paragraph": " We take this opportunity to introduce ourselves as VVR Home Care, company focusing on providing quality, high-end Home Care Solution & infrastructures. At VVR Home Care we recognize that each of our clients is unique and hence striveto develop a tailor-made solution for each of our clients. We believe that cuttingedge technology should be within the reach of any business regardless of size and wecan work within the constraints of a given budget to develop a solution.VVR Home Care Today provides highly Professional & Prompt Services in Your Home"
+
+  },
+  "Gallery": [
+    {
+      "title": "4K TV",
+      "largeImage": "img/gallery/T1.jpg",
+      "smallImage": "img/gallery/T1.jpg"
+    },
+    {
+      "title": "Air Conditioner",
+      "largeImage": "img/gallery/A1.jpg",
+      "smallImage": "img/gallery/A1.jpg"
+    },
+    {
+      "title": " Washer/Dryer & Appliance",
+      "largeImage": "img/gallery/D1.jpg",
+      "smallImage": "img/gallery/D1.jpg"
+    },
+    {
+      "title": "Home Theater",
+      "largeImage": "img/gallery/HT1.jpg",
+      "smallImage": "img/gallery/HT1.jpg"
+    },
+    {
+      "title": "Outlet Repair",
+      "largeImage": "img/gallery/Out2.jpg",
+      "smallImage": "img/gallery/Out2.jpg"
+    },
+    {
+      "title": "Iron Box",
+      "largeImage": "img/gallery/I1.jpg",
+      "smallImage": "img/gallery/I1.jpg"
+    },
+    {
+      "title": "Geyser",
+      "largeImage": "img/gallery/G1.jpg",
+      "smallImage": "img/gallery/G1.jpg"
+    },
+    {
+      "title": "Fan",
+      "largeImage": "img/gallery/F1.jpg",
+      "smallImage": "img/gallery/F1.jpg"
+    },
+    {
+      "title": "Fridge",
+      "largeImage": "img/gallery/F111.jpg",
+      "smallImage": "img/gallery/F111.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "img": "img/services/wmr.jpg",
+      "icon": "fa fa-wordpress",
+      "name": "Washing Machine Repair",
+      "text": " Washing Machine repair - includes top load washing machine repair service, front load washing machine repair service, and fully automatic washing machine repair service"
+    },
+    {
+      "img": "img/services/FT.jpg",
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Refrigerator Repair",
+      "text": " Doorstep repair service starts with checking functioning of Appliance using Start-Stop operation. Diagnosis cost for troubleshooting of the functional issue"
+    },
+    {
+      "img": "img/services/acr.jpg",
+      "icon": "fa fa-cloud-download",
+      "name": "Air Conditioner Repair",
+      "text": "AC service (at home service) starts with checking the functioning of Appliance using Start-Stop operation. AC service also includes cleaning of Outdoor Unit Condensor coil using water to remove dust."
+    },
+    {
+      "img": "img/services/MWO.jpg",
+      "icon": "fa fa-plane",
+      "name": "Microwave Oven Repair",
+      "text": "If your microwave is relatively new and the repair costs less than replacing it, the fix is worth it. But are microwaves worth repairing if something major is broken? Probably not. Consider getting a replacement appliance for about $100, which should work for 7 to 10 years."
+    },
+    {
+      "img": "img/services/tvr.jpg",
+      "icon": "fa fa-language",
+      "name": "Television Repair",
+      "text": "TV repair – includes LED TV repair, LCD TV repair, Smart TV repair, 4K TV repair, OLED or QLED TV repair, standalone TV screen repair."
+    },
+    {
+      "img": "img/services/ALL.jpg",
+      "icon": "fa fa-pie-chart",
+      "name": "All Electrical Equipement Repair",
+      "text": "Electrical repairs involve a wide variety of services, ranging from major installation, or rewiring your home, to changing over a broken socket or breaker. It is often a difficult task to diagnose a particular electrical issue at home without the help of a trained professional."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "CCTV": [
+    {
+      "img": "img/cctv/TV11.jpg",
+      "name": "QLED",
+      "job": "Samsung"
+    },
+    {
+      "img": "img/cctv/TV22.jpg",
+      "name": "4K HDR",
+      "job": "Sony"
+    },
+    {
+      "img": "img/cctv/TV33.jpg",
+      "name": "QLED",
+      "job": "Sony"
+    },
+    {
+      "img": "img/cctv/TV44.jpg",
+      "name": "QNED",
+      "job": "LG"
+    }
+    
+  ],
+  "Firedetection": [
+    {
+      "img": "img/biometric/F11.jpg",
+      "name": "Magic Cool ",
+      "job": "Whirlpool"
+    },
+    {
+      "img": "img/biometric/F22.jpg",
+      "name": "Convertable",
+      "job": "LG"
+    },
+    {
+      "img": "img/biometric/F33.jpg",
+      "name": "Bio-Metric ProMAX",
+      "job": "Samsung"
+    } 
+  ],
+  "Sales": [
+    {
+      "img": "img/sales/ac2.jpg",
+      "name": "Air conditioner",
+      "job": ""
+    },
+    {
+      "img": "img/sales/F12.jpg",
+      "name": "Refrigerator",
+      "job": ""
+    },
+    {
+      "img": "img/sales/FG11.jpg",
+      "name": "Washing Machine",
+      "job": ""
+    },
+    {
+      "img": "img/sales/G11.jpg",
+      "name": "Geyser",
+      "job": ""
+    } 
+  ],
+  "Contact": {
+    "address": "#31/1, KURABARAHALLI, HOSKOTE, BANGALORE - 562114 ",
+    "phone": "+91 9591292833",
+    "email": "sales@ssptechnologies.in",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-video-camera",
+      "title": "Video Surveillance",
+      "text": "“Traditional analog CCTV surveillance cameras can still serve as a reliable source of security for many organizations, especially those on a budget..”"
+    },
+    {
+      "icon": "fa fa-desktop",
+      "title": "Computer Service",
+      "text": " “A computer will do what you tell it to do, but that may be much different from what you had in mind. Just having satisfied customers isn't good enough anymore.”"
+    },
+    {
+      "icon": "fa fa-phone",
+      "title": "Telecommunication",
+      "text": "“An efficient telecommunications network is the foundation upon which an information society is built.”"
+    },
+    {
+      "icon": "fa fa-globe",
+      "title": "Web Services",
+      "text": "“We don't just build websites, we build websites that SELLS”"
+    }
+  ],
+  "Why": {
+    "paragraph": "Quality video evidence helps solve crime and increases apprehensions by private security and police agenciesSaves  money by identifying operational issues.Acts as a deterrent to those that would consider being dishonest.Video evidence often eliminates or significantly reduces exposure to litigation via fraudulent or frivolous claims.All too often businesses discover product or money missing weeks after the fact. Having video archives available to go back and review often solves these mysteries. Video analytics – let video help the operational side of your business by mapping customer patterns, counting people, capturing license plates and more.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ], 
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+.text-red {
+    color:rgb(38, 14, 172);
+}
+.text-orange {
+    color:rgb(38, 14, 172) !important;
+}
+.text-blue {
+    color:rgb(0, 140, 255)
+}
+.text-white {
+ color: rgb(255, 255, 255);
+}
+.text-rubyred {
+    color:rgb(194, 21, 21)
+}
+.text-green {
+    color: rgb(0, 255, 76);
+}
+.text-black {
+    color: black !important;
+}
+/* .hov
+{
+    -webkit-text-stroke: 1px #003cff;
+} */
+.text-blue1 {
+    color:rgb(38, 14, 172)
+}
+
+.text-orange1 {
+    color:rgb(233, 98, 8)
+}
