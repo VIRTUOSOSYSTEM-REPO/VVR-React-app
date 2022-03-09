@@ -2,9 +2,9 @@ import React from "react";
 import Carousel from "react-bootstrap/Carousel";
 import styled from 'styled-components';
 import "bootstrap/dist/css/bootstrap.min.css";
-import Img from "../Img/bannerNew.jpg";
-import Img1 from "../Img/Banner12.jpg";
-import Img2 from "../Img/Banner1.jpg";
+import Img from "../Img/Banner41.jpeg";
+import Img1 from "../Img/Banner42.jpeg";
+import Img2 from "../Img/Banner43.jpg";
 
 
 
